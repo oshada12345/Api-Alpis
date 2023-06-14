@@ -19,9 +19,9 @@ require('dotenv').config()
 
 //_______________________ ┏  Main Setting  ┓ _______________________\\
 
-creator = 'Hardi' // Nama 
+creator = 'oshada' // Nama 
 port = 8080 //port host
-LimitApikey = 200 // Limit Apikey default
+LimitApikey = 20000 // Limit Apikey default
 
 //___________ ┏  Database Mongodb Setting  ┓ ___________\\
 
